@@ -16,11 +16,5 @@
             "branch": "main",
             "email": "asurendran@ecloudcontrol.com",
             "group": "data-engineering"
-        },
-        "https://github.com/Akshaidevopscc/test": {
-            "path": "/appz/home/airflow/dags/dbt/test",
-            "branch": "main",
-            "email": "asurendran@ecloudcontrol.com",
-            "group": "data-engineering"
         }
 }
