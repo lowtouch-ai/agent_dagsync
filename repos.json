@@ -1,0 +1,26 @@
+{
+        "https://github.com/Akshaidevopscc/airflow_dags": {
+            "path": "/appz/home/airflow/dags/airflow_dags",
+            "branch": "main",
+            "email": "asurendran@ecloudcontrol.com",
+            "group": "data-engineering"
+        },
+        "https://github.com/Akshaidevopscc/template": {
+            "path": "/appz/home/airflow/dags/dbt/template",
+            "branch": "main",
+            "email": "asurendran@ecloudcontrol.com",
+            "group": "data-engineering"
+        },
+        "https://github.com/Akshaidevopscc/snowflake": {
+            "path": "/appz/home/airflow/dags/dbt/snowflake",
+            "branch": "main",
+            "email": "asurendran@ecloudcontrol.com",
+            "group": "data-engineering"
+        },
+        "https://github.com/Akshaidevopscc/test": {
+            "path": "/appz/home/airflow/dags/dbt/test",
+            "branch": "main",
+            "email": "asurendran@ecloudcontrol.com",
+            "group": "data-engineering"
+        }
+}
