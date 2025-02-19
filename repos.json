@@ -1,14 +1,14 @@
 {
-        "https://github.com/Akshaidevopscc/jaffle_shop": {
+        "https://github.com/lowtouch-ai/jaffle_shop": {
             "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
             "branch": "main",
-            "email": ["asurendran@ecloudcontrol.com"],
-            "group": "data-eng"
+            "email": ["rkrishnan@ecloudcontrol.com"],
+            "group": "aiops"
         },
-        "https://github.com/Akshaidevopscc/airflow_dags": {
+        "https://github.com/lowtouch-ai/airflow_dags": {
             "path": "/appz/home/airflow/dags/airflow_dags",
             "branch": "main",
-            "email": ["asurendran@ecloudcontrol.com"],
-            "group": "data-eng"
+            "email": ["rkrishnan@ecloudcontrol.com"],
+            "group": "aiops"
         }       
 }
