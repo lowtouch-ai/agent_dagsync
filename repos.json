@@ -7,7 +7,7 @@
         },
         "https://github.com/lowtouch-ai/agent_dags": {
             "path": "/appz/home/airflow/dags/agent_dags",
-            "branch": "main",
+            "branch": "7717/load_content_from_website",
             "email": ["lowtouchai-demo@ecloudcontrol.com"],
             "group": "aiops"
         }       
