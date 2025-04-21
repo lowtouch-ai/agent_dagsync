@@ -1,7 +1,7 @@
 {
         "https://github.com/lowtouch-ai/jaffle_shop": {
             "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
-            "branch": "7709/email_dag",
+            "branch": "main",
             "email": ["lowtouchai-demo@ecloudcontrol.com"],
             "group": "aiops"
         },
