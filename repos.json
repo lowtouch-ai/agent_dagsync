@@ -10,5 +10,11 @@
             "branch": "main",
             "email": ["lowtouchai-demo@ecloudcontrol.com"],
             "group": "aiops"
-        }       
+        },
+        "https://github.com/Cloudbourne/ltai-dags": {
+            "path": "/appz/home/airflow/dags/ltai-dags",
+            "branch": "main",
+            "email": ["lowtouchai-demo@ecloudcontrol.com"],
+            "group": "aiops"
+        } 
 }
