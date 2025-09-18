@@ -12,7 +12,7 @@
             "group": "aiops"
         },
         "https://github.com/Cloudbourne/webshop-lite": {
-            "Path": "/appz/agents-ext",
+            "path": "/appz/agents-ext",
             "branch": "main",
             "email": ["lowtouchai-demo@ecloudcontrol.com"],
             "group": "aiops"
