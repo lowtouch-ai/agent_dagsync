@@ -13,7 +13,7 @@
         },
         "https://github.com/Cloudbourne/webshop-lite": {
             "path": "/appz/agents-ext",
-            "branch": "main",
+            "branch": "9499/demo-b",
             "email": ["lowtouchai-demo@ecloudcontrol.com"],
             "group": "aiops"
         },
