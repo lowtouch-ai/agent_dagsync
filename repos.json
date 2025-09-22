@@ -14,7 +14,7 @@
         "https://github.com/Cloudbourne/webshop-lite": {
             "path": "/appz/agents-ext/webshop-lite",
             "branch": "9499/demo-b",
-            "email": ["lmmathew@ecloudcontrol.com"],
+            "email": ["agenticai-team@ecloudcontrol.com"],
             "group": "aiops"
         },
         "https://github.com/Cloudbourne/ltai-dags": {
