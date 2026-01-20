@@ -1,7 +1,7 @@
 {
         "https://github.com/lowtouch-ai/jaffle_shop": {
             "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
-            "branch": "10419/airflow-upgrade-3.0",
+            "branch": "main",
             "email": ["lowtouchai-demo@ecloudcontrol.com"],
             "group": "aiops"
         },
