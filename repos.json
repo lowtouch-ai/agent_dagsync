@@ -19,7 +19,7 @@
         },
         "https://github.com/Cloudbourne/ltai-dags": {
             "path": "/appz/home/airflow/dags/ltai-dags",
-            "branch": "8474/lynx",
+            "branch": "10667/lynx_airflow3.0_changes",
             "email": ["lowtouchai-demo@ecloudcontrol.com"],
             "group": "aiops"
         } 
