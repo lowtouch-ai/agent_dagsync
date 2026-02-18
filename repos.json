@@ -5,7 +5,7 @@
             "email": ["lowtouchai-demo@ecloudcontrol.com"],
             "group": "aiops"
         },
-        "https://github.com/Cloudbourne/agent_workflows.git": {
+        "https://github.com/Cloudbourne/agent_workflows": {
             "path": "/appz/home/airflow/dags/agent_workflows",
             "branch": "main",
             "email": ["lowtouchai-demo@ecloudcontrol.com"],
