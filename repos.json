@@ -22,11 +22,5 @@
             "branch": "8474/lynx",
             "email": ["lowtouchai-demo@ecloudcontrol.com"],
             "group": "aiops"
-        },
-        "https://github.com/Cloudbourne/agent_workflows": {
-            "path": "/appz/home/airflow/dags/azure_agent_workflows",
-            "branch": "feature/0010864-azure-copilot-devenv",
-            "email": ["lowtouchai-demo@ecloudcontrol.com"],
-            "group": "aiops"
         }
 }
