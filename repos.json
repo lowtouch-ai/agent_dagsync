@@ -22,5 +22,12 @@
             "branch": "8474/lynx",
             "email": ["lowtouchai-demo@ecloudcontrol.com"],
             "group": "aiops"
+        },
+        "https://github.com/lowtouch-ai/clipfoundry": {
+            "path": "/appz/home/airflow/dags/clipfoundry",
+            "branch": "10805/cipfoundry-dag-lab",
+            "email": ["lowtouchai-demo@ecloudcontrol.com"],
+            "group": "aiops"
         }
+        
 }
